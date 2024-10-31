@@ -59,7 +59,7 @@ Proyecto de la Hermandad de la Candelaria, hecho como proyecto final de 1DAM. Pe
 ## 📫 Contáctame
 
 <!--- **LinkedIn**: [Tu perfil de LinkedIn](#)-->
-- **Correo**: [Tu email](moises.mdg04@gmail.com)
+- **Correo**: [moises.mdg04@gmail.com](moises.mdg04@gmail.com)
 - **GitHub**: Aquí mismo 😊
 
 ---
