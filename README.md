@@ -52,9 +52,9 @@ Proyecto de la Hermandad de la Candelaria, hecho como proyecto final de 1DAM. Pe
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRomanAbad&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRomanAbad&layout=compact&theme=radical" alt="Top Langs"/>
-  <img src="https://streak-stats.demolab.com?user=CarlosRomanAbad&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mooii04&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooii04&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://streak-stats.demolab.com?user=mooii04&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </p>
 
 ---
