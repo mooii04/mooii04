@@ -1,5 +1,7 @@
 # 👋 ¡Hola! Soy Moisés Dorado Gutiérrez
 
+![Visitas al perfil](https://komarev.com/ghpvc/?username=mooii04&color=blue)
+
 **Desarrollador apasionado y entusiasta de la tecnología, con experiencia en Java, Html, Angular, ... y en la creación de soluciones innovadoras y prácticas.** Siempre buscando aprender y contribuir en proyectos que generen un impacto positivo, actualmente trabajo en proyectos como **Ready2Ref**: una app diseñada para que árbitros deportivos optimicen su forma física y mental, cumpliendo con los estándares deportivos de Andalucía y el ámbito nacional.
 
 ---
@@ -46,6 +48,14 @@ Proyecto de la Hermandad de la Candelaria, hecho como proyecto final de 1DAM. Pe
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Angular Material" width="40" height="40"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRomanAbad&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRomanAbad&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://streak-stats.demolab.com?user=CarlosRomanAbad&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</p>
 
 ---
 
