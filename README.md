@@ -18,11 +18,14 @@
 
 ### Ready2Ref
 Plataforma para entrenar a árbitros deportivos en su mejor forma física y mental, adaptada a estándares nacionales. Este proyecto es una respuesta a la necesidad de entrenadores y árbitros de contar con recursos especializados.
-
 [➡️ Ver el repositorio](#)
 
 ### ProyectoFinal1DAM
 Proyecto de la Hermandad de la Candelaria, hecho como proyecto final de 1DAM. Pendiente de mejorarlo y avanzar en dicho proyecto.  
+[➡️ Ver el repositorio](#)
+
+### PipocApp
+Plataforma donde puedes navegar como en la web TMDB, proyecto hecho en 2ºDAM con Angular.
 [➡️ Ver el repositorio](#)
 
 ---
