@@ -8,9 +8,9 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🌱 **Siempre aprendiendo**: Actualmente me enfoco en mejorar mis habilidades en [tecnología/temática].
-- 💡 **Resolviendo problemas**: Crear soluciones que hagan la vida más fácil a las personas es mi motivación diaria.
-- 🤝 **Colaboración**: Abierto a participar en proyectos colaborativos, especialmente en áreas de [áreas de interés, como open source, IA, etc.].
+- 🌱 **Aprendizaje**: Actualmente me encuentro en una fase de aprendizaje, acaparando todo lo posible.
+- 💡 **Resolviendo problemas**: Crear soluciones a problemas es parte de la vida de una persona.
+- 🤝 **Colaboración**: Abierto a participar en proyectos colaborativos.
 
 ---
 
